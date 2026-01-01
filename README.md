@@ -12,14 +12,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" width="70" height="70"  alt=""/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/1024px-Lisp_logo.svg.png" width="70" height="70" alt=""/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="70" width="70" alt="" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="70" width="70" alt="" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="70" width="70" alt="" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="70" width="70" alt="" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" height="70" width="70" alt="" />
+    
 </div>
 
 <br><br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaussfff&layout=compact&theme=cobalt" alt="stat"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaussfff&theme=github_dark" alt="stat"/>
 </div>
 
 <br>
